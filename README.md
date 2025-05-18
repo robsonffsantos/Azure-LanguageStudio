@@ -16,7 +16,6 @@ Este repositório documenta minha experiência prática com as ferramentas de In
 - **Azure Speech Studio**: Plataforma para trabalhar com reconhecimento de fala, síntese de fala e tradução
 - **Azure Language Studio**: Ambiente para análise de texto, incluindo análise de sentimentos, extração de frases-chave e reconhecimento de entidades
 - **Conta Azure**: Utilizada para acessar os serviços cognitivos da Microsoft
-```
 
 ## 📚 Documentação
 
